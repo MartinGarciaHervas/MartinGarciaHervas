@@ -17,7 +17,7 @@ I'm Martin, a Full Stack Web Developer with a background in architecture and exp
 
 ## Activity  
 
-- 🔭 I’m currently working on a final proyect for Henry  
+- 🔭 I’m currently working on a final proyect for Henry and Creva💜
 
 <br/>  
 
