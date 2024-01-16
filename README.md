@@ -28,7 +28,7 @@ I'm Martin, a Full Stack Web Developer with a background in architecture and exp
 ## Activity  
 
 - 🔭 I´ve just finished a final proyect for Henry and Creva💜.
-- Im actually coding my Portfolio and learning typescript.
+- Im currently enrolled in two Udemy courses, one focusing on Typescript and the other on Java.
 
 <br/>  
 
