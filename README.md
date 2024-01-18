@@ -19,7 +19,7 @@
 
 
 ### Glad to see you here!  
-I'm Martin, a Full Stack Web Developer with a background in architecture and experience in logistics for the construction industry. During my architecture studies, I learned to effectively organize myself and collaborate in teams to carry out complex projects. My role as a logistics manager in construction allowed me to coordinate resources and ensure that teams had what they needed to work efficiently. This experience has strengthened my skills in organization, teamwork, and resource management.  
+My name is Martín García Hervás, I'm a Full Stack Developer, with background experience of over 3 years in logistics and construction. I have worked on projects involving design and development in both Front End and Back End. My Soft-Skills include strong organizational ability, teamwork, and leadership. 
   
 
 <br/>  
