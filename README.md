@@ -28,7 +28,7 @@ My name is Martín García Hervás, I'm a Full Stack Developer, with background 
 ## Activity  
 
 - Working at Loop3♾.
-- Im currently enrolled in two Udemy courses, one focusing on Typescript and the other on Java.
+- Im currently enrolled in a Java Udemy course.
 
 <br/>  
 
